@@ -3,16 +3,17 @@
 	"id": "contentcraft",
 	"version": "${version}",
 	"name": "Content Craft",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Do you feel like minecraft has become boring? Well Contentcraft is here to fix that! meet the all in one mod fixing minecraft's progression, advancements, items and way more!",
 	"authors": [
-		"Me!"
+		"Hakerboi",
+		"JuiceBoxStudios"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Hakerboi123/ContentCraft-1.21-Fabric-Repo",
+		"sources": "https://github.com/Hakerboi123/ContentCraft-1.21-Fabric-Repo"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/contentcraft/icon.png",
+	"license": "Apache License 2.0",
+	"icon": "assets/contentcraft/ContentCraft Logo.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -20,6 +21,9 @@
 		],
 		"fabric-datagen": [
 			"ie.juiceboxstudios.contentcraft.ContentCraftDataGenerator"
+		],
+		"client": [
+			"ie.juiceboxstudios.contentcraft.ContentCraftClient"
 		]
 	},
 	"mixins": [

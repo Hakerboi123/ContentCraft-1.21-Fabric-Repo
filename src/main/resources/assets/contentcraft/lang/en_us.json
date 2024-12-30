@@ -1,0 +1,13 @@
+{
+
+  "item.contentcraft.xaenon_ingot": "Xaenon Ingot",
+  "item.contentcraft.raw_xaenon": "Raw Xaenon",
+  "item.contentcraft.chisel": "Chisel",
+
+  "block.contentcraft.xaenon_block": "Xaenon Block",
+  "block.contentcraft.raw_xaenon_block": "Raw Xaenon Block",
+  "block.contentcraft.xaenon_ore": "Xaenon Ore",
+  "block.contentcraft.ore_polishing_station": "Ore Polishing Station",
+
+  "itemgroup.contentcraft.xaenon_expansion": "Xaenon Expansion"
+}

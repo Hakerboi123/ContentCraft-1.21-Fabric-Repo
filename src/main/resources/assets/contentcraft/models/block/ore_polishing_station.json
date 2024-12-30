@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "contentcraft:block/ore_polishing_station_bottom",
+    "up": "contentcraft:block/ore_polishing_station_top-export",
+    "north": "contentcraft:block/ore_polishing_station_side",
+    "east": "contentcraft:block/ore_polishing_station_side",
+    "south": "contentcraft:block/ore_polishing_station_side",
+    "west": "contentcraft:block/ore_polishing_station_side",
+    "particle": "contentcraft:block/ore_polishing_station_bottom"
+  }
+}
